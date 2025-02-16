@@ -10,3 +10,4 @@ function my_Dictionary(){
     document.getElementById("Dictionary").innerHTML=Animal.Sound;
 }
 
+document.write(typeof "Word");
