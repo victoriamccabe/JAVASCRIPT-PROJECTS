@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Cutive&display=swap');
+/*Import "Cutive" font from Google Fonts*/
+
+
+body{
+    background-image: url("../Images/chef.jpg");
+    background-size:cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+/*Styling for the headers*/
+h1 {
+    font-family: "Cutive", serif;
+    font-size: 50px;
+    color: #D9D5C5;
+    text-shadow: 3.3px 6.6px 6.6px rgba(0, 0, 0, 0.8);
+    text-align: center;
+}
+
+h3 {
+    font-family: "Cutive", serif;
+    font-size: 30px;
+    color: #42403c;
+}
+
+
+/*Styles button*/
+#btnOrder {
+        background: #DA9533;
+        font-family: "Cutive", serif;
+        font-size: 15px;
+        font-weight: bold;
+        color: #3F3A37;
+        border: 3px solid #3F3A37;
+        box-shadow: 3.3px 6.6px 6.6px rgba(0, 0, 0, 0.8);
+        cursor: pointer;
+        justify-content: center;
+        margin: 30px 0px 0px 250px;
+        width: 150px;
+        height: 50px;
+}
+
+#btnOrder:hover {
+    background: rgb(63, 58, 55);
+    color: #D9D5C5;
+}
+
+
+
+#menuBG {
+    width: 700px;  
+    height: 500px;
+    margin: 80px auto;
+    background-color: rgba(218, 207, 203, 0.8);
+    border: 2px solid #413C3A;
+    box-shadow: 3.3px 6.6px 6.6px rgba(0, 0, 0, 0.5);
+    padding-left:50px;
+}
+
+#frmMenu {
+    width: 400px;
+    height: 200px;
+    margin: 0px auto;
+}
+
+#totalPrice {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.left {
+    width: 200px;  
+    height: 200px;
+    float: left
+}
+
+.right {
+    width: 200px;  
+    height: 200px;
+    float: right;
+}
+
+/*Creates 3 equals columns for the inputs*/
+.column {
+    float: left;
+    width: 33.33%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+ 
+#rows {
+    font-family: "Cutive", serif;
+    font-size: 14px;
+    color: #42403c;
+    line-height: 2;
+    margin: 10px 10px;
+}
+
+
+/*Styles cart section*/
+
+#showText, #totalPrice {
+    font-family: "Cutive", serif;
+    font-size: 14px;
+    color: #42403c;
+    line-height: 2;
+    margin: 10px 10px;
+    float: left;
+
+}
+
+/*Positions the total price text on the right of the section*/
+#totalPrice {
+    text-align: right;
+}
+
+#cart {
+    width: 500px;  
+    height: 300px;
+    margin: auto;
+    background-color: rgba(218, 207, 203, 0.8);
+    border: 2px solid #413C3A;
+    box-shadow: 3.3px 6.6px 6.6px rgba(0, 0, 0, 0.5);
+
+}
+
