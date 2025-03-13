@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');
+/*Imported "Train One" font from fonts.google.com*/
+
+
+html {
+    font-family: "Avenir Next", Helverica, sans-serif;
+    text-align: center;
+}
+
+body {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #E9C46A;
+}
+
+input { 
+    padding-top: 30px;
+    width: 500px;
+    height: 60px;
+    font-size: 40px;
+    border: 0;
+}
+
+input:focus {
+    outline: none;
+}
+
+li {
+    text-align: left;
+    font-size: 50px;
+    list-style: none;
+    margin: 0;
+}
+
+/*Styles the title*/
+#title {
+    font-family: "Train One", system-ui;
+    font-size: 30px;
+    font-weight: bold;
+    color: #264653;
+    background-color: #E76F51;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    margin-top: 20px;
+    margin-left: -20px;
+    border: 10px solid #F4A261;
+   
+
+    border-radius: 30px;
+    
+    
+}
+
+
+.remove {
+    padding-bottom: 5px;
+}
+
+
+
+footer {
+    font-family: "Avenir Next", Helverica, sans-serif;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    background-color: #264653;
+    color: #E9C46A;
+    text-align: center;
+    border-top: 10px solid #E76F51;
+
+}
