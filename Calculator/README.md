@@ -17,12 +17,12 @@ This project demonstrates fundamental JavaScript logic such as object manipulati
 ---
 
 ##  Project Structure
-
+<pre>
 calculator/
 ├── index.html # Main HTML structure
 ├── style.css # Styling for the calculator
 └── script.js # Calculator logic and event handling
-
+</pre>
 ##  How It Works
 
 - The calculator’s state is managed by an object named `Calculator`, which keeps track of:
