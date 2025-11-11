@@ -43,6 +43,7 @@ calculator/
 
 ##  Preview!
 
-[alt text](Calculator-1.gif)
+![Calculator](https://github.com/user-attachments/assets/44647e6b-b1a4-4bef-87bd-0368b9ff5e60)
+
 
 
