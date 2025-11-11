@@ -34,5 +34,6 @@ It uses **smooth transitions**, **hover effects**, and **animated elements** to 
 - **CSS3** – for layout, shadows, and text effects  
 - **jQuery 3.7.1** – for animations, events, and DOM manipulation  
 
----![Uploading ClassicCars.gif…]()
+
+![ClassicCars](https://github.com/user-attachments/assets/9e82b9ec-ddba-4144-bafd-4b6520930144)
 
