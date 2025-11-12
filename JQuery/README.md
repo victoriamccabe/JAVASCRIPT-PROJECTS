@@ -1,5 +1,5 @@
 #  Classic Cars — jQuery Interactive Project
-
+![ClassicCars](https://github.com/user-attachments/assets/9e82b9ec-ddba-4144-bafd-4b6520930144)
 This project is a dynamic, interactive webpage built with **HTML**, **CSS**, and **jQuery**.  
 It showcases **classic cars** and an **FAQ section**, demonstrating practical use of jQuery for animations, event handling, and DOM manipulation.
 
@@ -35,5 +35,5 @@ It uses **smooth transitions**, **hover effects**, and **animated elements** to 
 - **jQuery 3.7.1** – for animations, events, and DOM manipulation  
 
 
-![ClassicCars](https://github.com/user-attachments/assets/9e82b9ec-ddba-4144-bafd-4b6520930144)
+
 
